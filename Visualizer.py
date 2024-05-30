@@ -18,7 +18,7 @@ class AudioVisualizer:
         self.visual = "_" # this is what is used as a visual for well... visualizing audio
         self.client = udp_client.SimpleUDPClient("127.0.0.1", 9000) # VRChat OSC port (but maybe you wanna change it to something else for other reasons)
         self.smooth = 0.8 # smoothness of the visualizer :D
-        self.audiothreshold = 0.2 # this determines the audio threshold (recommended values from 0-1 anything more or lower is unnessesary imo)
+        self.audiothreshold = 0.2 # this determines the audio threshold (recommended values from 0-1 anything more or lower is unnecessary imo)
         self.micinput = "CABLE Output (VB-Audio Virtual Cable)" # rename this! it only accepts MIC inputs afaik because i cannot figure out any methods of getting output devices :P
         self.previous_values = [1 + i for i in range(10)] # change range(10) to determine how many visualizer connections (recommended 10 and below due to vrchats size limit!)
         self.previous_freq_values = [] # not a setting...
