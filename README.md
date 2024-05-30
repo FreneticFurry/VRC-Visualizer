@@ -15,3 +15,10 @@ _{Side Note}_
 this was made with new users in mind and to be as friendly as i could think of to maybe help a newer user figure out Python for the people interested in learning it though their own ways! (though the code probably kinda sucks i made an attempt lol)
 
 hope you enjoy & make some cool funky stuff :)
+
+_{Showcase}_
+
+smoothness can be changed to be alot less or alot more smooth via the settings or VRCFury :)
+https://github.com/FreneticFurry/VRC-Visualizer/assets/158255865/946757af-4a4c-49f1-9e23-8e36c8ecc678
+
+
